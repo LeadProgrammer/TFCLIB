@@ -1,0 +1,12 @@
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\bin\Debug\Interop.SAPbobsCOM.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\ResolveAssemblyReference.cache
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\Interop.SAPbobsCOM.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\LIBDI.csproj.ResolveComReference.cache
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\LIBDI.csproj.GenerateResource.Cache
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\bin\Debug\LIBDI.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\bin\Debug\LIBDI.pdb
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\LIBDI.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\LIBDI.pdb
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\LIBDI.SAPPopUpPrompt.resources
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\LIBDI.SQLAddUserPrompt.resources
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBDI\LIBDI\obj\Debug\LIBDI.FileDialogSave.resources

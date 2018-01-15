@@ -1,0 +1,12 @@
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\obj\Debug\ResolveAssemblyReference.cache
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\obj\Debug\Interop.SAPbouiCOM.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\obj\Debug\LIBUI.csproj.ResolveComReference.cache
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\obj\Debug\Interop.SAPbobsCOM.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\bin\Debug\LIBUI.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\bin\Debug\LIBUI.pdb
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\bin\Debug\LIBDI.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\bin\Debug\Interop.SAPbobsCOM.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\bin\Debug\LIBDI.pdb
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\bin\Debug\Interop.SAPbouiCOM.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\obj\Debug\LIBUI.dll
+T:\IT Apps and Docs\S\Source Code\TFCLIB\LIBUI\LIBUI\obj\Debug\LIBUI.pdb
